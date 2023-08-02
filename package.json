@@ -1,0 +1,24 @@
+{
+  "name": "testing-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianib102/testing-cypress.git"
+  },
+  "author": "Fabian Ibañez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabianib102/testing-cypress/issues"
+  },
+  "homepage": "https://github.com/fabianib102/testing-cypress#readme",
+  "description": ""
+}
